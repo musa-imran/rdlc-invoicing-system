@@ -1,2 +1,2 @@
 # RDLC Invoicing System
-Invoice Management System Developed in ASP.NET MVC &amp; SQL Server with RDLC Report Wizard.
+Invoice Management System Developed in ASP.NET MVC with RDLC Report Wizard.
