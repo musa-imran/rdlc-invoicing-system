@@ -1,19 +1,19 @@
 # RDLC Invoicing Web Application
 
-Welcome to this ASP.NET MVC application with a SQL Server or Azure SQL Database backend and RDLC Report Designer integration.
+ASP.NET MVC application with a SQL Server or Azure SQL Database backend and RDLC Report Designer integration.
 
 ## Technologies Used
 
 - **ASP.NET MVC Framework:** Implements a Model-View-Controller architecture for clean separation of concerns.
 - **SQL Server/Azure SQL Database:** Utilizes SQL Server for database management. Compatible with both on-premise and cloud databases.
 - **RDLC Reporting:** Integrated **RDLC Report Designer** for generating detailed reports with customizable layouts.
-- **Entity Framework (Code-First):** Database access using Entity Framework, making it easy to manage and migrate databases.
+- **Entity Framework:** Database access using Entity Framework, making it easy to manage and migrate databases.
 - **Bootstrap & jQuery Front-End:** Uses **Bootstrap 5** for a responsive user interface, and **jQuery** for client-side scripting.
 
 ## Prerequisites
 
-- **Visual Studio 2022** (or later)
-- **.NET Framework 4.8** (or later)
+- **Visual Studio 2022**
+- **.NET Framework 4.8**
 - **SQL Server** or **Azure SQL Database** for the database
 - **RDLC Designer Extension** for Visual Studio
 
@@ -41,5 +41,12 @@ To get full project source code,
 ![5](https://github.com/user-attachments/assets/fdc7b970-c17b-4733-8b0e-993571ce3836)
 
 ### New Invoice Generation Form:
+![33](https://github.com/user-attachments/assets/adf22c4b-7eee-492c-8932-82c1aa0f878f)
+
+### RDLC Invoice View:
+![7](https://github.com/user-attachments/assets/d1238299-d737-4129-846d-ebc369dab401)
+
+### Print Format:
+![8](https://github.com/user-attachments/assets/55707cc3-6518-4457-961c-871e2a768984)
 
 
