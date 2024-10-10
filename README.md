@@ -2,8 +2,15 @@
 
 ASP.NET MVC application with a SQL Server or Azure SQL Database backend and RDLC Report Designer integration.
 
-## Technologies Used
+## Features
+- **Customer Management**.
+- **Items Management**.
+- **Invoices Record**.
+- **Invoice Generating Form**.
+- **RDLC Report Viewer**.
 
+
+## Technologies Used
 - **ASP.NET MVC Framework:** Implements a Model-View-Controller architecture for clean separation of concerns.
 - **SQL Server/Azure SQL Database:** Utilizes SQL Server for database management. Compatible with both on-premise and cloud databases.
 - **RDLC Reporting:** Integrated **RDLC Report Designer** for generating detailed reports with customizable layouts.
@@ -11,17 +18,16 @@ ASP.NET MVC application with a SQL Server or Azure SQL Database backend and RDLC
 - **Bootstrap & jQuery Front-End:** Uses **Bootstrap 5** for a responsive user interface, and **jQuery** for client-side scripting.
 
 ## Prerequisites
-
 - **Visual Studio 2022**
 - **.NET Framework 4.8**
 - **SQL Server** or **Azure SQL Database** for the database
 - **RDLC Designer Extension** for Visual Studio
 
 ## Getting Started
-
 To get full project source code,
 - Email: musaimran932@gmail.com
 - WhatsApp: [+92 306 3239877](https://api.whatsapp.com/send?phone=923063239877)
+
 
 ## Screenshots
 
@@ -49,4 +55,6 @@ To get full project source code,
 ### Print Format:
 ![8](https://github.com/user-attachments/assets/55707cc3-6518-4457-961c-871e2a768984)
 
+### Database Tables Structure:
+![drawSQL-image-export-2024-10-10](https://github.com/user-attachments/assets/265dd75b-2114-418b-b770-0cedc9c2b8b0)
 
